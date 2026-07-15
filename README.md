@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**1ntegrat0r/1ntegrat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**1ntegrat0r/1ntegrat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Certificates:
 - [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/d3d8787d-cee5-426d-a0d5-2bb18f717191.jpeg?v=1756986776)](https://www.boot.dev/certificates/d3d8787d-cee5-426d-a0d5-2bb18f717191)
