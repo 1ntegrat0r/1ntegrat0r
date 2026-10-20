@@ -3,7 +3,7 @@
 <!--
 **1ntegrat0r/1ntegrat0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Certificates:
+Advanced certificates:
 - [![Boot.dev Learn Retrieval Augmented Generation certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bcf4e0dd-f708-440a-bc49-9661cc5cdedc.jpeg?v=1783932340)](https://www.boot.dev/certificates/bcf4e0dd-f708-440a-bc49-9661cc5cdedc)
 - [![Boot.dev Learn Functional Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/bfc03ebd-c112-4f72-bfcb-efa64f0cf07b.jpeg?v=1789733045)](https://www.boot.dev/certificates/bfc03ebd-c112-4f72-bfcb-efa64f0cf07b)
 - [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/78697618-bcf2-470f-800b-a3056c73553e.jpeg?v=1760534004)](https://www.boot.dev/certificates/78697618-bcf2-470f-800b-a3056c73553e)
